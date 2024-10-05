@@ -1,8 +1,4 @@
 :root {
-    --btn-color-primary: blue;
-    --btn-color-secondary: black;
+    --color: #aaa;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-    
-}
